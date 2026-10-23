@@ -25,12 +25,15 @@ import {
 ====================================== */
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT.firebasestorage.app",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+
+const firebaseConfig = {
+  apiKey: "AIzaSyB--5Jvrz86xmGiDoykYmWw5oXrEZTUI8Y",
+  authDomain: "werewolf-ed2c8.firebaseapp.com",
+  projectId: "werewolf-ed2c8",
+  storageBucket: "werewolf-ed2c8.firebasestorage.app",
+  messagingSenderId: "979149172677",
+  appId: "1:979149172677:web:e9bea7daf3a828de3d65ac",
+  measurementId: "G-7830GPCHGK"
 };
 
 const configured =
